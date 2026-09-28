@@ -27,4 +27,3 @@ anonymized supplement; it does not rerun the GPU experiments. To rerun those, us
     src/cove/theory.py       zoo index, hubness
     scripts/                 feature extraction, experiment tiers, toy, mechanism runs
     tools/                   aggregation, figures, audit
-    audits/                  claims-to-evidence map, AI-use log, reproduction spot check, compute
