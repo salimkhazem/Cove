@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+features/
+data/
+results/raw/
+*.egg-info/
+
+/results/superseded/inshop_bare_id/
+/results/superseded/inshop_uncommitted_fix/
+
+/results/rebuild_plan/
+/results/superseded/pre_clean_rerun/
+/results/pre_clean_rerun/
